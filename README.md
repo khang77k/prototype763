@@ -1,2 +1,13 @@
 # prototype763
-Notes and examples while learning k8s.
+
+Handy scripts for everyday tasks.
+
+## Structure
+
+```
+src/    core code
+tests/  unit tests
+docs/   notes
+```
+
+Contributions welcome.
